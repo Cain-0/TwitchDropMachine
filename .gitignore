@@ -9,6 +9,9 @@
 **/lock.file
 **/dump.dat
 
+# Local generated launcher binary
+Start-All-TwitchDropsMiner.exe
+
 # Local copies of full TwitchDropsMiner account folders
 TwitchDropsMiner-dev/
 TwitchDropsMiner-account2/
