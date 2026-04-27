@@ -1,0 +1,21 @@
+# Twitch login/session data
+**/config/cookies.jar
+**/config/*.jar
+**/cache/
+**/env/
+**/__pycache__/
+**/*.pyc
+**/*.log
+**/lock.file
+**/dump.dat
+
+# Local copies of full TwitchDropsMiner account folders
+TwitchDropsMiner-dev/
+TwitchDropsMiner-account2/
+TwitchDropsMiner-account3/
+TwitchDropsMiner-account4/
+
+# Archives
+*.zip
+*.7z
+*.rar
